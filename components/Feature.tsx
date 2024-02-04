@@ -42,7 +42,7 @@
           <div className="mx-auto max-w-2xl lg:mx-0">
             <h2 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">Start your free Trial</h2>
             <p className="mt-6 text-lg leading-8 text-gray-300">
-            Start your free trial today! Unleash the power of creativity, compose mesmerizing melodies, and discover a world where every note becomes a masterpiece. Dive into the sonic realm now – your free trial of SonicCanvas awaits!"
+            Start your free trial today! Unleash the power of creativity, compose mesmerizing melodies, and discover a world where every note becomes a masterpiece. Dive into the sonic realm now &quot;your free trial of SonicCanvas awaits!
             </p>
           </div>
           <div className="mx-auto mt-10 max-w-2xl lg:mx-0 lg:max-w-none">

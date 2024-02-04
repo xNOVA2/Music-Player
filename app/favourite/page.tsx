@@ -19,7 +19,7 @@ const FavouriteSongs = () => {
              <div className="flex gap-2 p-2 flex-wrap">
           
             {FavList.map((video)=>(
-              <Card video={video} />
+              <Card video={video} key={video.id} />
             ))}
         </div>
     </div>

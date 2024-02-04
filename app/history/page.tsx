@@ -19,7 +19,7 @@ const FavouriteSongs = () => {
              <div className="flex gap-2 p-2 flex-wrap">
           
             {history.map((video)=>(
-              <Card video={video} />
+              <Card video={video} key={video.id}/>
             ))}
         </div>
     </div>

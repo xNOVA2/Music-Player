@@ -49,7 +49,7 @@ Dive into the melody with us – because every week is a new composition waiting
               </div>
               <dt className="mt-4 font-semibold text-white">No spam</dt>
               <dd className="mt-2 leading-7 text-gray-400 ">
-             You'll only receive meaningful content that adds value to your musical journey..
+             You&apos;ll only receive meaningful content that adds value to your musical journey..
               </dd>
             </div>
           </dl>
